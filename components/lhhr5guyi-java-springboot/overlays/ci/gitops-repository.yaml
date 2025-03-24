@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lhhr5guyi-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lhhr5guyi-java-springboot-gitops
